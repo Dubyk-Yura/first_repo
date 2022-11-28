@@ -1,3 +1,4 @@
+/*lab 2.1*/
 #include <stdio.h>
 #include <math.h>
 # define M_E 2.7182818284590452354
